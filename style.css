@@ -1,11 +1,14 @@
 html,body{
+    margin: 0;
+    padding: 0;
     background-color: rgb(134, 59, 59);
 }
 
 
 .pai{
-    display: grid;
-    align-items: center;
+    margin: 200px;
+    display: flex;
+     align-items: center;
     justify-content: center;
     
 }
